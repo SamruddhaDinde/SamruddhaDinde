@@ -26,7 +26,7 @@ Dedicated Computer Science student with interests in Cyberscurity(Blue-teaming),
 ---
 
 ## Projects  
-### Cybersecurity-Traffic Object Detection System  
+### Traffic Object Detection System  
 - Developed an AI-powered object detection system using Python, CNN, and YOLOv5 to classify traffic objects, simulating security monitoring.  
 - Optimized performance with data preprocessing and hyperparameter tuning on Google Colab.  
 
